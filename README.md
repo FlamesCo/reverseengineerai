@@ -1,5 +1,3 @@
-# reverseengineerai
-Proxy LLM HUGGINGGPT-AUTO 
 ReverseEngineerAI
 
 ReverseEngineerAI is a fork of the AutoGPT project, tailored for local Lifelong Learning Systems (LLMS). This project aligns with the initiative of cultivating an environment where models can continually learn and adapt to new data over time, enhancing their performance and utility.
